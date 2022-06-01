@@ -1,0 +1,19 @@
+play
+.env/
+# .env
+.vscode/
+node_modules/
+.idea/
+.docker/
+venv/
+.vs/
+/backend/play/
+node_modules/
+.idea/
+.docker/
+venv/
+.vs/
+/backend/play/
+.DS_Store
+__pycache__/
+**/.DS_Store
